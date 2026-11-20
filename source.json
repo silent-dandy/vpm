@@ -1,0 +1,15 @@
+{
+    "name": "Silent Comfort",
+    "id": "com.silentcomfort.vpm",
+    "url": "https://silent-dandy.github.io/vpm/index.json",
+    "author": {
+        "name": "Silent Comfort",
+        "url": "https://silent-dandy.github.io/"
+    },
+    "description": "Silent Comfort の VRChat ワールド向けギミック",
+    "infoLink": {
+        "url": "https://silent-dandy.github.io/",
+        "text": "Silent Comfort のサイト"
+    },
+    "githubRepos": []
+}
